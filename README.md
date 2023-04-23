@@ -4,7 +4,17 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Aliine98/java-estudo?style=flat">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Aliine98/java-estudo?color=magenta&style=flat">
   <a href="https://www.linkedin.com/in/aline-bevilacqua/"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Conecte-se comigo&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faline-bevilacqua%2F"></a>
- </div>
+ </div><br>
+ 
+<div align="center"> 
+ 
+ Table of Contents<br><br>
+   <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+   <a href="#-rodando-localmente">Rodando localmente</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+   <a href="#-licença">Licença</a>
+
+</div>
+ 
 <br>
 Projetos Java que aprendi no curso do programa Oracle next education pela plataforma da Alura. Sintaxe básica do Java, estudo sobre POO: Polimorfismo, Herança, interfaces; e back-end com JDBC e MySQL.
 
